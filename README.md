@@ -1,0 +1,1 @@
+This file contains the solved activities and tasks of lab manual of basic concepts of java. Lab manual is used to write a code according to the given statement. It contanins labs from to lab 1 to lab 10.
